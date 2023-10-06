@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Gabriele Pigozzo a linux system engineer interested in linux internals and bash scripting.
+- 👋 Hi, I’m a linux system engineer interested in linux internals and scripting.
